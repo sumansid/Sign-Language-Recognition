@@ -11,9 +11,16 @@ Y_test shape: (25, 7172)
 
 Size of each image vector = 28 x 28 x 1 = 784
 
+## Deep Learning Framework : Tensorflow
+
+
+
 
 
 ![amer_sign2](https://user-images.githubusercontent.com/53033648/78063390-21d5c800-735e-11ea-86e3-5696da3783e3.png)
 
 
 Dataset : https://www.kaggle.com/datamunge/sign-language-mnist
+
+## Contributing
+Pull requests are welcome. 
