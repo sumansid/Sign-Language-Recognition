@@ -1,7 +1,7 @@
 # Sign-Language-Recognition
 A deep learning model that recognizes sign language alphabets. 
 
-## Number of Hidden Layers : 4 
+## Number of Hidden Layers : 3
 A deep neural network is used to gather train on more features. Currently, we have 25 classes, thus a deep NN is needed to distinguish each alphabet from the other and achieve higher accuracy.
 
 Number of training examples = 27455
@@ -13,7 +13,7 @@ Number of channels in each image : 1 (Grayscale), Size of each image vector = 28
 
 ## Deep Learning Framework : Tensorflow
 
-# Model : Linear -> Relu -> Linear -> Relu -> Linear -> Relu -> Linear -> Softmax 
+# Model : Linear -> Relu -> Linear -> Relu -> Linear -> Softmax 
 
 
 
