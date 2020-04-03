@@ -11,7 +11,8 @@ X_train shape: (784, 27455), Y_train shape: (25, 27455), X_test shape: (784, 717
 
 Number of channels in each image : 1 (Grayscale), Size of each image vector = 28 x 28 x 1 = 784
 
-## Deep Learning Framework : Tensorflow
+## Tools and Deep Learning Framework : Tensorflow Version 2.0, Numpy and Pandas
+
 
 # Model : Linear -> Relu -> Linear -> Relu -> Linear -> Softmax 
 
